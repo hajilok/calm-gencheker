@@ -1,7 +1,7 @@
 const fs = require('fs');
 
-const botid = 'bot5869164323:AAHHzFVVlTSQoWrNqMQPGP07pVc29-r8o2Y' // paste your bot id
-const chatid = '-1001833730267' // paste your chat id
+const botid = '' // paste your bot id
+const chatid = '' // paste your chat id
 
 
 
