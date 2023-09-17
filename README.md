@@ -1,7 +1,7 @@
 # calm-gencheker
 This A simple generator gifcard for calm.com and checker live or not
 
-#Requirement :
+# Requirement :
 Node js and Terminal 
 
 So You can Download Node js and install node js 
