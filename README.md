@@ -34,6 +34,4 @@ Contact Me in :
 Telegram : https://t.me/hiopts 
 And Connect with me in Social Media in Github Profile 
 
-Or Support me In :
-
-
+Or Support me In Sponsors 
