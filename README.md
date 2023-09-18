@@ -19,7 +19,7 @@ const chatid = '' // paste your chat id
 Jalankan Dengan Cara 
 
 ```
-node test.js
+node app.js
 
 ```
 
